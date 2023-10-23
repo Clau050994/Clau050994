@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClauVarona
 - 👀 I’m interested in develop my programming skills.
-- 🌱 I’m currently learning C++,C#,python,Java,Xcode
+- 🌱 I’m currently learning C++,C#,python,Java,Xcode,Js,HTML,CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me clau050994@gmail.com
 
