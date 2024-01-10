@@ -1,6 +1,8 @@
-# Hi, I'm Claudia 👋
 
-![Profile Picture](https://media.licdn.com/dms/image/D4E03AQGxi30y6dEdiA/profile-displayphoto-shrink_800_800/0/1703177616041?e=1710374400&v=beta&t=uPjrXSQEDoWw9diF9X77k6g5VMEHUDPQg6VXsUONEsA)
+
+![Profile Picture](https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif)
+
+# Hi, I'm Claudia 👋
 
 I'm currently a student delving into the world of coding and development. I'm passionate about learning new programming languages and building my technical skills. Stay tuned to see my progress and projects!
 ## Connect with me:
