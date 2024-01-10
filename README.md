@@ -7,7 +7,8 @@
   </tr>
   </tr>
 </table>
-# Hi, I'm Claudia 👋
+<h1>Hi, I'm Claudia <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" height="30"></h1>
+
 
 I'm currently a student delving into the world of coding and development. I'm passionate about learning new programming languages and building my technical skills. Stay tuned to see my progress and projects!
 ## Connect with me:
