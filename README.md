@@ -1,15 +1,12 @@
 
 <table>
   <tr>
-     <td><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="250" alt="Third Image Description" /></td>
-        <td><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250" alt="Profile Picture" /></td>
-        <td><img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5MDI2NTksIm5iZiI6MTcwNDkwMjM1OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTEwVDE1NTkxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJjN2MwNmUzODY1NDUzYmVhMTQ5MTQxNGIwYjU0YWMxZWQ2MDgzYzhhNjllYmQyNjc4ZmU2ZjIwZmQ0NDhlZjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.JqTbpUl0M27b6vv7hfAyc8EvRxZK_BnLeu6ssQt1060" width="250" alt="Second Image Description" /></td>
-
-
-   
-  </tr>
+     <td><img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="300" alt="Third Image Description" /></td>
+     <td><img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="250" alt="Profile Picture" /></td>
+     <td><img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="250" /></td>
   </tr>
 </table>
+
 <h1>Hi, I'm Claudia <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" height="30"></h1>
 
 
@@ -23,9 +20,13 @@ I'm currently a student delving into the world of coding and development. I'm pa
 
 
 - 👀 I’m interested in develop my programming skills.
-- 🌱 I’m currently learning C++,C#,python,Java,Xcode,Js,HTML,CSS
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++,C#,python,Java,Xcode,Js,HTML,CSS,React.js
 - 📫 How to reach me clau050994@gmail.com
+
+
+
+
+
 
 <!---
 Clau050994/Clau050994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
